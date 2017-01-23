@@ -1,0 +1,27 @@
+#header{
+    background-color: #e3e3e3;
+}
+
+#picture_logo{
+    width: 400px;
+}
+
+#logo_fixed{
+    overflow: hidden;
+}
+
+#header_txt{
+    margin-top: 70px;
+    color: dimgray;
+    margin-bottom: 2px;
+    font-size: 45px;
+}
+
+.FS{
+    color: #009dd1
+}
+
+#header_txt_trends{
+    color: dimgray;
+    font-size: 20px;
+}
